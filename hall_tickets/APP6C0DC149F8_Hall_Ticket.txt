@@ -1,0 +1,40 @@
+============================================================
+                 COLLEGE ADMISSION SYSTEM
+                     HALL TICKET
+============================================================
+
+STUDENT DETAILS
+------------------------------------------------------------
+Student Name       : Avinash
+Application Number : APP6C0DC149F8
+Rank               : 1
+Category           : GENERAL
+
+ADMISSION DETAILS
+------------------------------------------------------------
+Course Code        : CSE
+Course Name        : Computer Science Engineering
+Admission Seat     : CSE-GENERAL-001
+
+EXAMINATION DETAILS
+------------------------------------------------------------
+Exam Centre Code   : EXC001
+Exam Centre Name   : Main Examination Centre
+Room Number        : A101
+Exam Seat          : A101-001
+Exam Date          : 25/09/2026
+Session            : MORNING
+
+IMPORTANT INSTRUCTIONS
+------------------------------------------------------------
+1. Carry this hall ticket to the examination centre.
+2. Reach the examination centre before the reporting time.
+3. Carry a valid identity document.
+4. Follow all examination rules and instructions.
+
+============================================================
+                  END OF HALL TICKET
+============================================================
+
+
+
