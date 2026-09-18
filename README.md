@@ -2021,9 +2021,15 @@ This project demonstrates practical application of:
 
 ## Author
 
-**Venkata Avinash**
+**Kethineni Venkata Avinash**
+**Registration Number: 25BAI10364**
+**BTECH - Computer Science and Engineering (Artificial Intelligence and Machine Learning)**
+**School of Computing Science Engineering and Artificial Intelligence (SCAI)**
+
 
 Project:
+
+**Programming in Java Project**
 
 [**Intelligent-College-Admission-System**](https://github.com/KethineniVenkataAvinash/Intelligent-College-Admission-System)
 
